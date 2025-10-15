@@ -12,7 +12,7 @@
   "dependencies": {
     "@certusone/wormhole-sdk": "^0.10.15",
     "@wormhole-foundation/relayer-engine": "^0.3.2",
-    "ethers": "5",
+    "ethers": "5.8.0",
     "package-utils": "../package-utils"
   }
 }

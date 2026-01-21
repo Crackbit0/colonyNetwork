@@ -10,9 +10,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@certusone/wormhole-sdk": "^0.10.15",
+    "@certusone/wormhole-sdk": "^0.10.18",
     "@wormhole-foundation/relayer-engine": "^0.3.2",
-    "ethers": "5",
+    "ethers": "6.0.0",
     "package-utils": "../package-utils"
   }
 }
